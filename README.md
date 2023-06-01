@@ -1,6 +1,6 @@
 ![logo](https://github.com/MagyoDev/MagyoDev/blob/main/Vagabond_BannerGit_Menor.jpg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alan+de+Lima+Silva;I'm+26+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alan+de+Lima+Silva;I'm+17+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 Sou um entusiasta da programação e apaixonado por desenvolvimento de software, com um foco especial em Python, inteligência artificial e segurança. Neste espaço, compartilho alguns dos meus projetos, experimentos e contribuições para a comunidade de desenvolvedores.
 
