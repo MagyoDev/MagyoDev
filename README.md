@@ -20,6 +20,17 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp; 
 
+  
+### Interest:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+  
+### Tols:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+  
 ### Interesses
 
 - Desenvolvimento Web
@@ -39,11 +50,5 @@ Aqui estão algumas das tecnologias com as quais trabalho e estou interessado:
 - Ciência de Dados: Pandas, NumPy, Scikit-learn
 - Banco de dados: SQL, MongoDB
 - Ferramentas de controle de versão: Git, GitHub
-
-### Conecte-se comigo
-
-- [LinkedIn](https://www.linkedin.com/in/magyo/)
-- [Instagram](https://www.instagram.com/magyo_md/)
-- [YouTube](https://www.youtube.com/channel/UCGMLKTLB9G_OpL_7F2aM9Iw)
 
 Se você estiver interessado em algum dos meus projetos, tiver alguma pergunta ou apenas quiser bater um papo, não hesite em me contatar. Ficarei feliz em conversar com você!
