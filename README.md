@@ -29,11 +29,11 @@
 ### Technologies
 Here are some of the technologies I'm interested in:
   
-Frameworks: Flask, Django
-Artificial Intelligence: TensorFlow, Keras
-Security: Encryption, Authentication, Authorization
-Data Science: Pandas, NumPy, Scikit-learn
-Database: MongoDB
-Augmented reality: ARCore, ARKit
+- Frameworks: Flask, Django
+- Artificial Intelligence: TensorFlow, Keras
+- Security: Encryption, Authentication, Authorization
+- Data Science: Pandas, NumPy, Scikit-learn
+- Database: MongoDB
+- Augmented reality: ARCore, ARKit
 
 Se você estiver interessado em algum dos meus projetos, tiver alguma pergunta ou apenas quiser bater um papo, não hesite em me contatar. Ficarei feliz em conversar com você!
