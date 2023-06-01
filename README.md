@@ -1,4 +1,4 @@
-![logo](https://github.com/MagyoDev/MagyoDev/blob/main/Vagabond_BannerGit.jpg)
+![logo](https://github.com/MagyoDev/MagyoDev/blob/main/Vagabond_BannerGit_Menor.jpg)
 
 ## Olá! Eu sou o Alan de Lima Silva ⚔️
 
