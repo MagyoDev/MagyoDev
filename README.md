@@ -19,36 +19,21 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp; 
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; 
 
-  
-### Interest:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-  
 ### Tols:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
   
-### Interesses
-
-- Desenvolvimento Web
-- Inteligência Artificial
-- Segurança da Informação
-- Ciência de Dados
-- Open Source
-
-### Tecnologias
-
-Aqui estão algumas das tecnologias com as quais trabalho e estou interessado:
-
-- Linguagem de programação: Python 🐍
-- Frameworks: Flask, Django
-- Inteligência Artificial: TensorFlow, Keras
-- Segurança: Criptografia, Autenticação, Autorização
-- Ciência de Dados: Pandas, NumPy, Scikit-learn
-- Banco de dados: SQL, MongoDB
-- Ferramentas de controle de versão: Git, GitHub
+### Technologies
+Here are some of the technologies I'm interested in:
+  
+Frameworks: Flask, Django
+Artificial Intelligence: TensorFlow, Keras
+Security: Encryption, Authentication, Authorization
+Data Science: Pandas, NumPy, Scikit-learn
+Database: MongoDB
+Augmented reality: ARCore, ARKit
 
 Se você estiver interessado em algum dos meus projetos, tiver alguma pergunta ou apenas quiser bater um papo, não hesite em me contatar. Ficarei feliz em conversar com você!
