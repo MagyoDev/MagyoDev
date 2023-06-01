@@ -22,9 +22,10 @@
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp; 
 
 ### Tols:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)&nbsp;
+![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)&nbsp;
+![SQL_SERVER](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
+![Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)&nbsp;  
   
 ### Technologies
 Here are some of the technologies I'm interested in:
@@ -36,4 +37,4 @@ Here are some of the technologies I'm interested in:
 - Database: MongoDB
 - Augmented reality: ARCore, ARKit
 
-Se você estiver interessado em algum dos meus projetos, tiver alguma pergunta ou apenas quiser bater um papo, não hesite em me contatar. Ficarei feliz em conversar com você!
+If you are interested in any of my projects, have any questions or just want to chat, please don't hesitate to contact me. I would be happy to chat with you!
