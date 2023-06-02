@@ -3,7 +3,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MagyoDev&bg_color=000000&color=ffffff&line=ffffff&point=2a2727&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MagyoDev&show_icons=true&theme=dracula&count_private=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Alan de Lima Silva github stats"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MagyoDev&show_icons=true&theme=dracula&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Alan de Lima Silva github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagyoDev&hide_progress=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div>
 
