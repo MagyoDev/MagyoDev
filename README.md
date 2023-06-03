@@ -2,6 +2,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alan+de+Lima+Silva;I'm+17+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MagyoDev&bg_color=000000&color=ffffff&line=ffffff&point=2a2727&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
+  <a href="https://github.com/MagyoDev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MagyoDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagyoDev&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <div align="center"> 
 <a href="https://www.instagram.com/magyo_md/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
