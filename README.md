@@ -44,3 +44,9 @@ Here are some of the technologies I'm interested in:
 - Augmented reality: ARCore, ARKit
 
 If you are interested in any of my projects, have any questions or just want to chat, please don't hesitate to contact me. I would be happy to chat with you!
+  
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MagyoDev}/count.svg" /></p> 
+<br>
+</div>
