@@ -4,6 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/MagyoDev">
+<img height="180em" src= "https://github-readme-stats.vercel.app/api?username=MagyoDev&show_icons=true&theme=dark">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagyoDev&layout=compact&theme=dark"></a>
 </div>
 
 <div align="center"> 
