@@ -29,7 +29,7 @@
 <!--Portfolio-->
 ## Portfolio
 
-- [TCC - ARPIN: FERRAMENTA DE ENSINO PARA SISTEMAS EMBARCADOS](https://github.com/MagyoDev/PortfolioAMS2023-3DS) Ferramenta de aprendizado imersivo para eletrônica, Arduino Uno R3 e sistemas embarcados, utilizando realidade aumentada.
+- [TCC - ARPIN: FERRAMENTA DE ENSINO PARA SISTEMAS EMBARCADOS](https://github.com/MagyoDev/PortfolioAMS2023-3DS): Ferramenta de aprendizado imersivo para eletrônica, Arduino Uno R3 e sistemas embarcados, utilizando realidade aumentada.
 
 <!--GIF-->
 ![Neon](https://github.com/MagyoDev/MagyoDev/assets/135189804/cfd08e67-1286-4dac-8298-b3a76e93cedf)
