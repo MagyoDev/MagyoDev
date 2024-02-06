@@ -29,7 +29,6 @@
 <!--Portfolio-->
 ## Portfolio
 
-Projetos que eu criei ou contribuí:
 - [TCC - ARPIN: FERRAMENTA DE ENSINO PARA SISTEMAS EMBARCADOS](https://github.com/MagyoDev/PortfolioAMS2023-3DS) Ferramenta de aprendizado imersivo para eletrônica, Arduino Uno R3 e sistemas embarcados, utilizando realidade aumentada.
 
 <!--GIF-->
