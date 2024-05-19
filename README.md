@@ -10,14 +10,42 @@
 </div>
 
 ##
-<!--Portfolio-->
-## Portfolio
 
+<!--Portfolio-->
+### Portfolio:
 - [TCC - ARPIN: FERRAMENTA DE ENSINO PARA SISTEMAS EMBARCADOS](https://github.com/MagyoDev/PortfolioAMS2023-3DS): Ferramenta de aprendizado imersivo para eletrônica, Arduino Uno R3 e sistemas embarcados, utilizando realidade aumentada.
 
+### Skills:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)
+
+### Tools:
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)
+![Debian](https://img.shields.io/badge/-Debian-0D1117?style=for-the-badge&logo=debian&labelColor=0D1117)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&labelColor=0D1117)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117)
+![Unity](https://img.shields.io/badge/-Unity-0D1117?style=for-the-badge&logo=unity&labelColor=0D1117)
 
 
-<!--Links-->
+### Studying in this moment:
+![Augmented Reality](https://img.shields.io/badge/📱-Augmented%20Reality-0D1117?style=for-the-badge&logo=augmented-reality&labelColor=0D1117&logoColor=white)
+![Virtual Reality](https://img.shields.io/badge/🥽-Virtual%20Reality-0D1117?style=for-the-badge&logo=virtual-reality&labelColor=0D1117&logoColor=white)
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)
+![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=c%2B%2B&labelColor=0D1117)
+![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=c-sharp&labelColor=0D1117)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&labelColor=0D1117)
+
+
+
+
+
+<!--Social-->
 <div align="center"> 
   <a href="https://www.instagram.com/magyodev/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
