@@ -31,18 +31,6 @@
 ![Unity](https://img.shields.io/badge/-Unity-0D1117?style=for-the-badge&logo=unity&labelColor=0D1117)
 
 
-### Studying in this moment:
-![Augmented Reality](https://img.shields.io/badge/📱-Augmented%20Reality-0D1117?style=for-the-badge&logo=augmented-reality&labelColor=0D1117&logoColor=white)
-![Virtual Reality](https://img.shields.io/badge/🥽-Virtual%20Reality-0D1117?style=for-the-badge&logo=virtual-reality&labelColor=0D1117&logoColor=white)
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=c%2B%2B&labelColor=0D1117)
-![C#](https://img.shields.io/badge/-C%23-0D1117?style=for-the-badge&logo=c-sharp&labelColor=0D1117)
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&labelColor=0D1117)
-
-
-
 
 
 <!--Social-->
