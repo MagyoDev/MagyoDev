@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Alan+de+Lima+Silva%2C+18+years+old;I+study+systems+development+at+Fatec+Zona+Leste;Be+Welcome!+🌟)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Alan+de+Lima+Silva%2C+19+years+old;I+study+systems+development+at+Fatec+Zona+Leste;Be+Welcome!+🌟)](https://git.io/typing-svg)
 
 <!--GIF-->
 ![Neon](https://github.com/MagyoDev/MagyoDev/assets/135189804/cfd08e67-1286-4dac-8298-b3a76e93cedf)
