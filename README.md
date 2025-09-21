@@ -12,3 +12,4 @@
 <!--Portfolio-->
 ### Portfolio:
 - [TCC - ARPIN: FERRAMENTA DE ENSINO PARA SISTEMAS EMBARCADOS](https://github.com/MagyoDev/PortfolioAMS2023-3DS): Ferramenta de aprendizado imersivo para eletrônica, Arduino Uno R3 e sistemas embarcados, utilizando realidade aumentada.
+- [Kermes - Leitor de Mangás](https://github.com/MagyoDev/Kermes/releases/tag/v0.0.3): Aplicativo simples e rápido para leitura de mangás, com suporte offline e integração com a API do MangaDex.
